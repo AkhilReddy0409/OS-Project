@@ -62,8 +62,7 @@ int main()
     printf("\t\t\t---------------------------------------\n");
 
 
-/*Arranging the table according to Burst time,
-Execution time and Arrival Time
+/*Arranging the table according to Burst time
 Arrival time <= Execution time
 */
 
