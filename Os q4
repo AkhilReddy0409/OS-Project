@@ -1,27 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@raj161100 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-r4rajat
-/
-OS_C.A-3
-1
-01
- Code Issues 0 Pull requests 0 Actions Projects 0 Wiki Security Insights
-OS_C.A-3/os.c
-@r4rajat r4rajat Update os.c
-69228dc on Apr 14, 2018
-158 lines (133 sloc)  5.13 KB
-  
 #include<stdio.h>
 #include<conio.h>
 int main()
@@ -180,15 +156,3 @@ printf("\n\n\t\t\t -------------- Now Values are --------------\n\n");
   getch();
   return 0;
 }
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
